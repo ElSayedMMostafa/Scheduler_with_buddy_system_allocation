@@ -8,6 +8,6 @@
                                 3- Shortest Remaining Time Next (SRTN)
 In addition, memeory allocation was taking into consideration using buddy system alloction technique.
 
-# The user has to run ./pg_out at the terminal
+ The user has to run ./pg_out at the terminal
   then, he is asked to choose one algorithm to apply to the processes.
-# The processes' information must be saved at .txt file named "processes.txt" with the header and format attached in "processes.txt" file in this repository.
+ The processes' information must be saved at .txt file named "processes.txt" with the header and format attached in "processes.txt" file in this repository.
