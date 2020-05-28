@@ -1,6 +1,6 @@
 # Scheduler_with_buddy_system_allocation
 
-# This project is a "Scheduler" that manages the running and waiting processes in the operating system besides memory allocation simulation.
+-- This project is a "Scheduler" that manages the running and waiting processes in the operating system besides memory allocation simulation.
   This scheduler runs by 3 different algorithms, the user can only choose one at execution.
   The available algorithms are :
                                 1- Highest Priority First (HPF)
